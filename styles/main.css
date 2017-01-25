@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  background-color: dodgerblue;
+}
+p {
+  color: lime;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: lime;
+  text-align: center;
+}
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: blue;
+}
+.nav li {
+  float: left;
+}
+.nav li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: white;
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+.nav li a:hover {
+  background-color: #0000b3;
+}
