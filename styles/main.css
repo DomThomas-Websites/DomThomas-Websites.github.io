@@ -48,26 +48,3 @@ button {
   width: 500px;
   height: 1000px;
 }
-.size11button:onclick .textedit {
-  font-size: 11pt;
-}
-.size12button:onclick .textedit {
-  font-size: 12pt;
-}
-.size14button:onclick .textedit {
-  font-size: 14pt;
-}
-.size20button:onclick .textedit {
-  font-size: 20pt;
-}
-.fontsansbutton:onclick .textedit {
-  font-family: sans-serif;
-}
-.editsize500x1000button:onclick .textedit {
-  width: 500px;
-  height: 1000px;
-}
-.editsize100x500button:onclick .textedit {
-  width: 100px;
-  height: 500px;
-}
