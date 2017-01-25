@@ -34,8 +34,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 11pt;
   background-color: white;
   border: none;
-  width: 100px;
-  height: 500px;
+  width: 500px;
+  height: 1000px;
 }
 .size11button:onclick .textedit {
   font-size: 11pt;
