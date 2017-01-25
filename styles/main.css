@@ -30,11 +30,3 @@ h1, h2, h3, h4, h5, h6 {
 .nav li a:hover {
   background-color: #0000b3;
 }
-button {
-  background-color: blue;
-  color: white;
-  text-shadow: black 0.1em 0.1em 0.2em;
-  border: none;
-  width: 100px;
-  height: 70px;
-}
