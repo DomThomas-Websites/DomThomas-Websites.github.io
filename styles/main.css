@@ -30,3 +30,17 @@ h1, h2, h3, h4, h5, h6 {
 .nav li a:hover {
   background-color: #0000b3;
 }
+table {
+  border-collapse: collapse;
+}
+th {
+  color: white;
+  background-color: teal;
+}
+th, td {
+  width: 300px;
+  height: 150px;
+}
+table, th, td {
+  border: 1px solid black;
+}
