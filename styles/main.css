@@ -41,9 +41,13 @@ td {
   text-align: center;
   vertical-align: middle;
 }
-th, td {
+th {
   width: 300px;
   height: 150px;
+}
+td {
+  width: 150px;
+  height: 75px;
 }
 table, th, td {
   border: 1px solid black;
