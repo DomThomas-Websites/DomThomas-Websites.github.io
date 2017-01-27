@@ -37,14 +37,10 @@ table {
 th, td {
   width: 150px;
   height: 75px;
-}
-th {
-  color: white;
   background-color: teal;
-}
-td {
-  text-align: center;
+  color: white;
   vertical-align: middle;
+  text-align: center;
 }
 table, th, td {
   border: 1px solid black;
